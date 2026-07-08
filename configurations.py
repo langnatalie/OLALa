@@ -105,7 +105,7 @@ def args_parser():
     parser.add_argument("--static_matrix_steps", type=int, default=1)
     parser.add_argument("--modulo_of_matrix", type=int, default=10)
     parser.add_argument("--matrix_lr", type=float, default=1e-6)
-    parser.add_argument("--loss_by", type=str, default="accuracy", choices=["mse", "accuracy", "snr"])
+    parser.add_argument("--loss_by", type=str, default="mse", choices=["mse", "accuracy", "snr"])
     parser.add_argument(
         "--task_loss_batches",
         type=int,
