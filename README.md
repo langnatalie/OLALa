@@ -1,5 +1,5 @@
 # Online Learned Adaptive Lattice Codes for Heterogeneous Federated Learning
-PyTorch implementation of Online Learned Adaptive Lattice Codes for Heterogeneous Federated Learning
+PyTorch implementation of Online Learned Adaptive Lattice Codes for Heterogeneous Federated Learning.
 
 <img width="1496" height="268" alt="image" src="https://github.com/user-attachments/assets/a0cfa59d-20c3-4f31-a983-d8b777f804c6" />
 
